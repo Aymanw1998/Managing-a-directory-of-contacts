@@ -1,4 +1,4 @@
-# Manging-a-directory-of-contacts
+# Managing-a-directory-of-contacts
 
 ## like youtube: https://youtu.be/mher_swA6MI
 
